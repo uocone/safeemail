@@ -17,3 +17,18 @@ SDTP(Safe Data Transfer Protocol)provides secure, privacy-protected, and efficie
   * When the mail is delivered, the mail service provider only knows who the recipient is, but cannot know the sender information of the mail.
 
   3.when the SDTP communication data is attacked, for example, the service provider maliciously denies the service or the hacker intercepts the message, which will leave a track and notify the user. SDTP's service providers are multi-centralized, which is somewhat similar to the transaction record mechanism in Bitcoin, in which unless all possible node does not record transaction for an address。
+  
+# Project link  
+https://github.com/maikejonne/safeemail
+
+# Project paper link  
+https://arxiv.org/abs/1902.09115?from=singlemessage
+
+# Introduction to SDTP Protocol  
+https://baike.baidu.com/item/SDTP/23296736
+
+# Reference: Introduction to SMTP Protocol  
+https://baike.baidu.com/item/SMTP/175887
+
+# Reference: Introduction to SendMail System  
+https://baike.baidu.com/item/sendmail/2250367
