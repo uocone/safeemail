@@ -9,11 +9,11 @@ SMTP(Simple Mail Transfer Protocol) Which is a set of rules for transferring mai
 SDTP(Safe Data Transfer Protocol)provides secure, privacy-protected, and efficient data exchange for users under different service providers.
 
   1.The SDTP user authentication system is based on a zero-knowledge proof digital signature, so  
-  *SDTP does not generate spam messages.
-  *The user's email information will not be maliciously altered or forged by hackers or service providers.
+  * SDTP does not generate spam messages.
+  * The user's email information will not be maliciously altered or forged by hackers or service providers.
 
   2.the SDTP data transmission mode is also based on zero-knowledge proof, and the two sides of the message interaction are protected by privacy.  
-  *When sending an email, the mail service provider only knows that there is an email message to be sent, but the recipient information cannot be known.
-  *When the mail is delivered, the mail service provider only knows who the recipient is, but cannot know the sender information of the mail.
+  * When sending an email, the mail service provider only knows that there is an email message to be sent, but the recipient information cannot be known.
+  * When the mail is delivered, the mail service provider only knows who the recipient is, but cannot know the sender information of the mail.
 
   3.when the SDTP communication data is attacked, for example, the service provider maliciously denies the service or the hacker intercepts the message, which will leave a track and notify the user. SDTP's service providers are multi-centralized, which is somewhat similar to the transaction record mechanism in Bitcoin, in which unless all possible node does not record transaction for an address。
